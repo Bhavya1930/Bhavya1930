@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sri Pagadala</h1>
 
 <h3 align="center">
-CSE-DS Student | Machine Learning Enthusiast | Software Developer
+CSE-DS Student | Data Science Enthusiast | Software Developer
 </h3>
 
 <p align="center">
@@ -70,7 +70,7 @@ AI-powered Women's Health Monitoring and Preventive Care Platform
 - Clause Extraction
 - NLP-Based Insights
 
-🔗 Repository: Coming Soon
+🔗 Repository: https://github.com/Bhavya1930/legal-doc-analyzer
 
 ---
 
@@ -81,7 +81,7 @@ AI-powered Women's Health Monitoring and Preventive Care Platform
 - Predictive Analytics
 - Student Insights
 
-🔗 Repository: Coming Soon
+🔗 Repository: https://github.com/Bhavya1930/Student-Overall-Performance-Dashboard_Power-Bi
 
 ---
 
